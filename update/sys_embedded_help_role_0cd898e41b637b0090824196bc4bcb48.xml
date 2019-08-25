@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_274523_peer_revi.user" name="x_274523_peer_revi.user">40d898e41b637b0090824196bc4bcb45</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-25 05:32:26</sys_created_on>
+        <sys_id>0cd898e41b637b0090824196bc4bcb48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>40d898e41b637b0090824196bc4bcb45</sys_name>
+        <sys_package display_value="Peer Review" source="x_274523_peer_revi">0128d8281b277b0090824196bc4bcbd2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">0128d8281b277b0090824196bc4bcbd2</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0cd898e41b637b0090824196bc4bcb48</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-25 05:32:26</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
